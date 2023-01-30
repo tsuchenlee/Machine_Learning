@@ -1,4 +1,4 @@
-## Machine_Learning
+## Machine_Learning_and_AI
 
 This repository contains the homework assignments for the National Taiwan University, 2022 Spring Machine Learning course taught by Professor Hing-Yi Lee.
 
