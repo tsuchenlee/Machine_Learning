@@ -1,5 +1,7 @@
 ## Machine_Learning_and_AI
 
+#### Processing(3/15), estimated date of fully uploaded is 15/April/2023
+
 This repository contains the homework assignments for the National Taiwan University, 2022 Spring Machine Learning course taught by Professor Hing-Yi Lee.
 
 I would like to express my gratitude to Professor Hing-Yi Lee for his invaluable guidance and support throughout the course. His expertise and passion for Machine Learning have inspired me to pursue interests and further in this field.
